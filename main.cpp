@@ -14,7 +14,7 @@ void SetWindow(int Width, int Height);
 main ()
 {
     SetWindow(100,25);
-    printf("*********Txt number creator by Roballo*********\nVer. 1.4.6 \n\nUwaga! Po utworzeniu pliku zostanie on automatycznie otworzony w celu weryfikacji zawartosci.\nPlik jest generowany w tym samym miejscu gdzie znajduje sie program.\n\n");
+    printf("*********Txt number creator by Roballo*********\nVer. 1.4.6.2 \n\nUwaga! Po utworzeniu pliku zostanie on automatycznie otworzony w celu weryfikacji zawartosci.\nPlik jest generowany w tym samym miejscu gdzie znajduje sie program.\n\n");
 
     do{
     printf("Zakres liczb od ");
@@ -125,9 +125,9 @@ void SetWindow(int Width, int Height)
 // -drobne poprawki,
 // 1.4.6
 // -zmieniono polecenia z iosteream na cstdio,
-// -ustawiono wielko¶æ okna,
+// -ustawiono wielkoÅ›Ä‡ okna,
 //
 // 1.4.5
 // - dodano otwieranie txt po utworzeniu,
 // 1.4.4
-// Zapomnia³em napisaæ,
+// ZapomniaÅ‚em napisaÄ‡,
